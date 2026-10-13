@@ -1,0 +1,222 @@
+{
+  "_readme": "Edit this file on GitHub to change what the app shows. Keep every quote, comma, and bracket in place.",
+  "settings": {
+    "showWebsiteNews": true
+  },
+  "featuredNews": [],
+  "events": [
+    {
+      "id": "Mpact",
+      "name": "Mpact 2027 Test",
+      "theme": "teal",
+      "tagline": "A one-line description of this event.",
+      "dates": "March 11-12, 2027",
+      "shortDate": "Mar 11-12",
+      "location": "Copper King Hotel, Butte, MT",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Copper+King+Hotel+Butte+MT",
+      "registerUrl": "",
+      "announcements": [
+        "Add updates and reminders here. They appear at the top of the event page."
+      ],
+      "about": "Add a short description of the event: who it is for and what to expect.",
+      "extras": [
+        {
+          "label": "Who should attend",
+          "value": "Add details"
+        }
+      ],
+      "hotel": {
+        "name": "Copper King Hotel",
+        "photo": "copper-king",
+        "showBooking": false,
+        "address": "4655 Harrison Ave, Butte, MT",
+        "phone": "+14066404768",
+        "bookingUrl": "",
+        "rate": "",
+        "notes": ""
+      },
+      "registration": {
+        "url": "",
+        "cost": "",
+        "deadline": "",
+        "notes": "Add what is included, how to pay, and anything attendees should know."
+      },
+      "breakouts": [
+        {
+          "title": "Sample Breakout 1",
+          "icon": "book-outline",
+          "speaker": "Speaker name and a short bio",
+          "date": "Thursday, March 11",
+          "time": "1:30 PM",
+          "room": "Room number",
+          "description": "A short description of the class: what it covers and who it is for."
+        },
+        {
+          "title": "Sample Breakout 2",
+          "icon": "chatbubbles-outline",
+          "speaker": "Speaker name and a short bio",
+          "date": "Thursday, March 11",
+          "time": "1:30 PM",
+          "room": "Room number",
+          "description": "A short description of the class: what it covers and who it is for."
+        },
+        {
+          "title": "Sample Breakout 3",
+          "icon": "bulb-outline",
+          "speaker": "Speaker name and a short bio",
+          "date": "Friday, March 12",
+          "time": "10:00 AM",
+          "room": "Room number",
+          "description": "A short description of the class: what it covers and who it is for."
+        }
+      ],
+      "affinity": [
+        {
+          "title": "Sample Affinity Group 1",
+          "icon": "people-outline",
+          "speaker": "Group leader name",
+          "date": "Thursday, March 11",
+          "time": "4:00 PM",
+          "room": "Room number",
+          "description": "A short description of who this group is for and what to expect."
+        },
+        {
+          "title": "Sample Affinity Group 2",
+          "icon": "heart-outline",
+          "speaker": "Group leader name",
+          "date": "Thursday, March 11",
+          "time": "4:00 PM",
+          "room": "Room number",
+          "description": "A short description of who this group is for and what to expect."
+        }
+      ],
+      "schedule": [
+        {
+          "day": "Thursday, March 11",
+          "items": [
+            {
+              "time": "9:00 AM",
+              "title": "Registration opens",
+              "note": "Main lobby"
+            },
+            {
+              "time": "10:30 AM",
+              "title": "Opening session",
+              "note": "Main hall"
+            },
+            {
+              "time": "12:00 PM",
+              "title": "Lunch",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "day": "Friday, March 12",
+          "items": [
+            {
+              "time": "9:00 AM",
+              "title": "Morning session",
+              "note": "Main hall"
+            },
+            {
+              "time": "11:00 AM",
+              "title": "Breakout sessions",
+              "note": "See room list"
+            }
+          ]
+        }
+      ],
+      "startDate": "2027-03-11",
+      "endDate": "2027-03-12"
+    },
+    {
+      "id": "Refresh",
+      "name": "Refresh 2027",
+      "theme": "sage",
+      "tagline": "A one-line description of this event.",
+      "dates": "Dates to be announced",
+      "shortDate": "Coming soon",
+      "location": "Location to be announced",
+      "mapUrl": "",
+      "registerUrl": "",
+      "announcements": [
+        "Add updates and reminders here."
+      ],
+      "about": "Add a short description of the event: who it is for and what to expect.",
+      "extras": [
+        {
+          "label": "Who should attend",
+          "value": "Add details"
+        }
+      ],
+      "hotel": {
+        "name": "",
+        "address": "",
+        "phone": "",
+        "bookingUrl": "",
+        "rate": "",
+        "notes": "Hotel details will be added once they are confirmed."
+      },
+      "registration": {
+        "url": "",
+        "cost": "",
+        "deadline": "",
+        "notes": "Registration details will be added once they are confirmed."
+      },
+      "breakouts": [],
+      "affinity": [],
+      "schedule": [
+        {
+          "day": "Day 1",
+          "items": [
+            {
+              "time": "1:00 PM",
+              "title": "Check-in",
+              "note": ""
+            },
+            {
+              "time": "6:00 PM",
+              "title": "Evening session",
+              "note": ""
+            }
+          ]
+        }
+      ],
+      "startDate": "",
+      "endDate": ""
+    }
+  ],
+  "resources": [
+    {
+      "topic": "Leadership",
+      "title": "Sample resource title",
+      "desc": "One sentence on what this covers.",
+      "url": ""
+    },
+    {
+      "topic": "Leadership",
+      "title": "Another leadership resource",
+      "desc": "One sentence on what this covers.",
+      "url": ""
+    },
+    {
+      "topic": "Church Health",
+      "title": "Sample church health resource",
+      "desc": "One sentence on what this covers.",
+      "url": ""
+    },
+    {
+      "topic": "Worship and Media",
+      "title": "Sample worship and media resource",
+      "desc": "One sentence on what this covers.",
+      "url": ""
+    },
+    {
+      "topic": "Communications",
+      "title": "Sample communications resource",
+      "desc": "One sentence on what this covers.",
+      "url": ""
+    }
+  ]
+}
