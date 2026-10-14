@@ -109,21 +109,71 @@
           "time": "2:15 PM",
           "title": "Breakout Session 1",
           "note": "Parenting on Purpose - Mike and Cheryl Kolesar\nNew Church-State Challenges - Gena McFarland\nRenew Montana: pursuing a Culture of Spiritual Renewal - Howeth/Hales"
-        }
+        },
+         {
+          "time": "3:30 PM",
+          "title": "Break",
+          "note": ""
+        },
+         {
+          "time": "3:45 PM PM",
+          "title": "Breakout Session 2",
+          "note": "Relying on God: The Power of Worship-Based Prayer\nUtilizing Mission Teams\nParenting on Purpose"
+        },
+         {
+          "time": "5:00 PM",
+          "title": "Dinner",
+          "note": "On your own"
+        },
+         {
+          "time": "7:00 PM",
+          "title": "General Session 2",
+          "note": ""
+        },
+         {
+          "time": "8:30 PM",
+          "title": "Dismiss",
+          "note": ""
+        },
       ]
     },
     {
       "day": "Friday, March 12",
       "items": [
         {
-          "time": "9:00 AM",
-          "title": "Morning session",
+          "time": "8:30 AM",
+          "title": "Welcome and Worship",
           "note": "Main hall"
         },
+         {
+          "time": "9:00 AM",
+          "title": "Breakout Session 3",
+          "note": "Pastors' Wives Breakout\nCalling Out the Called\nGod's Plan for Sharing"
+        },
         {
-          "time": "11:00 AM",
-          "title": "Breakout sessions",
-          "note": "See room list"
+          "time": "10:15 AM",
+          "title": "Break",
+          "note": ""
+        },
+         {
+          "time": "10:30 AM",
+          "title": "Breakout Session 4",
+          "note": "Pastors' Wives Breakout Cont'd\nRenew Montana: Pursuing a Culture of Spiritual Renewal\nBecoming a Multiplying Church"
+        },
+         {
+          "time": "11:45 AM",
+          "title": "Lunch",
+          "note": ""
+        },
+         {
+          "time": "1:30 PM",
+          "title": "Affinity Group Time",
+          "note": "Free time to use for meeting, ministry development, planning, prayer, etc"
+        },
+         {
+          "time": "4:45 PM",
+          "title": "Dismiss",
+          "note": "Thanks For Coming"
         }
       ]
     }
