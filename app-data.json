@@ -7,7 +7,7 @@
   "events": [
     {
       "id": "Mpact",
-      "name": "Mpact 2027 test",
+      "name": "Mpact 2027",
       "theme": "teal",
       "tagline": "A one-line description of this event.",
       "dates": "March 11-12, 2027",
@@ -190,7 +190,7 @@
       "id": "GetRealWest",
       "name": "GetReal West",
       "theme": "sage",
-      "hidden": false,
+      "hidden": true,
       "tagline": "A one-line description of this event.",
       "dates": "Dates to be announced",
       "shortDate": "Coming soon",
