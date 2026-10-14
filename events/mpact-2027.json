@@ -42,7 +42,8 @@
       "date": "Thursday, March 11",
       "time": "1:30 PM",
       "room": "Room number",
-      "description": "A short description of the class: what it covers and who it is for."
+      "description": "A short description of the class: what it covers and who it is for.",
+      "day": "Thursday"
     },
     {
       "title": "Sample Breakout 2",
@@ -51,7 +52,8 @@
       "date": "Thursday, March 11",
       "time": "1:30 PM",
       "room": "Room number",
-      "description": "A short description of the class: what it covers and who it is for."
+      "description": "A short description of the class: what it covers and who it is for.",
+      "day": "Thursday"
     },
     {
       "title": "Sample Breakout 3",
@@ -60,7 +62,8 @@
       "date": "Friday, March 12",
       "time": "10:00 AM",
       "room": "Room number",
-      "description": "A short description of the class: what it covers and who it is for."
+      "description": "A short description of the class: what it covers and who it is for.",
+      "day": "Friday"
     }
   ],
   "affinity": [
