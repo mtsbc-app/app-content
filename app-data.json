@@ -134,16 +134,16 @@
       "id": "Refresh",
       "name": "Refresh 2026",
       "theme": "sage",
-      "tagline": "A one-line description of this event.",
-      "dates": "Dates to be announced",
-      "shortDate": "October 1-2, 2026",
-      "location": "Location to be announced",
+      "tagline": "MTSBC Annual Meeting.",
+      "dates": "October 1-2, 2026",
+      "shortDate": "October 1-2",
+      "location": "Heights Baptist Church, Billings, MT",
       "mapUrl": "",
       "registerUrl": "",
       "announcements": [
-        "Add updates and reminders here."
+        "Thank you for joining us at Refresh 2026"
       ],
-      "about": "Add a short description of the event: who it is for and what to expect.",
+      "about": "MTSBC Annual Meeting",
       "extras": [
         {
           "label": "Who should attend",
