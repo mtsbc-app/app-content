@@ -1,0 +1,44 @@
+{
+  "id": "GetRealWest",
+  "name": "GetReal West",
+  "theme": "sage",
+  "hidden": true,
+  "tagline": "A one-line description of this event.",
+  "dates": "Dates to be announced",
+  "shortDate": "Coming soon",
+  "location": "Location to be announced",
+  "mapUrl": "",
+  "startDate": "",
+  "endDate": "",
+  "announcements": [],
+  "about": "Add a short description of the event: who it is for and what to expect.",
+  "extras": [
+    {
+      "label": "Who should attend",
+      "value": "Add details"
+    }
+  ],
+  "hotel": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "bookingUrl": "",
+    "rate": "",
+    "notes": "Hotel details will be added once they are confirmed.",
+    "showBooking": true
+  },
+  "registration": {
+    "url": "",
+    "cost": "",
+    "deadline": "",
+    "notes": "Registration details will be added once they are confirmed."
+  },
+  "schedule": [
+    {
+      "day": "Schedule to be announced",
+      "items": []
+    }
+  ],
+  "breakouts": [],
+  "affinity": []
+}

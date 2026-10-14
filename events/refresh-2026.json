@@ -1,0 +1,124 @@
+{
+  "id": "Refresh",
+  "name": "Refresh 2026",
+  "theme": "sage",
+  "tagline": "MTSBC Annual Meeting.",
+  "dates": "October 1-2, 2026",
+  "shortDate": "October 1-2",
+  "location": "Heights Baptist Church, Billings, MT",
+  "mapUrl": "",
+  "registerUrl": "",
+  "announcements": [
+    "Thank you for joining us at Refresh 2026"
+  ],
+  "about": "MTSBC Annual Meeting",
+  "extras": [
+    {
+      "label": "Who should attend",
+      "value": "Add details"
+    }
+  ],
+  "hotel": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "bookingUrl": "",
+    "rate": "",
+    "notes": "Hotel details will be added once they are confirmed."
+  },
+  "registration": {
+    "url": "",
+    "cost": "",
+    "deadline": "",
+    "notes": "Registration details will be added once they are confirmed."
+  },
+  "general": [
+    {
+      "title": "NAMB Evangelism Training",
+      "icon": "megaphone-outline",
+      "description": "Evangelism training from NAMB at Refresh 2026.",
+      "videoUrl": ""
+    },
+    {
+      "title": "General Session 1: Church Planting Team Report",
+      "icon": "mic-outline",
+      "description": "The Church Planting Team's report from General Session 1.",
+      "videoUrl": ""
+    },
+    {
+      "title": "General Session 1 Part 2: Business Session",
+      "icon": "business-outline",
+      "description": "The business session from General Session 1.",
+      "videoUrl": ""
+    },
+    {
+      "title": "General Session 2: Church Strengthening Report",
+      "icon": "mic-outline",
+      "description": "The Church Strengthening report from General Session 2.",
+      "videoUrl": ""
+    },
+    {
+      "title": "General Session 2 Part 2: Dr. Jeff Iorg Message",
+      "icon": "mic-outline",
+      "speaker": "Dr. Jeff Iorg",
+      "description": "A message from Dr. Jeff Iorg during General Session 2.",
+      "videoUrl": ""
+    },
+    {
+      "title": "General Session 3: Ministry Highlights and Field Stories",
+      "icon": "mic-outline",
+      "description": "Ministry highlights and field stories from General Session 3.",
+      "videoUrl": ""
+    },
+    {
+      "title": "Tim Dowdy Message",
+      "icon": "mic-outline",
+      "speaker": "Tim Dowdy",
+      "description": "A message from Tim Dowdy.",
+      "videoUrl": ""
+    }
+  ],
+  "breakouts": [
+    {
+      "title": "Pastors' Wives",
+      "icon": "heart-outline",
+      "speaker": "Ann Iorg",
+      "description": "A breakout for pastors' wives, led by Ann Iorg.",
+      "videoUrl": ""
+    },
+    {
+      "title": "The Evangelism Portfolio",
+      "icon": "megaphone-outline",
+      "speaker": "JJ Washington",
+      "description": "A breakout on The Evangelism Portfolio, led by JJ Washington.",
+      "videoUrl": ""
+    },
+    {
+      "title": "Endurance: Leading for the Long Haul",
+      "icon": "walk-outline",
+      "speaker": "Dr. Jeff Iorg",
+      "description": "A breakout on Endurance: Leading for the Long Haul, led by Dr. Jeff Iorg.",
+      "videoUrl": ""
+    }
+  ],
+  "affinity": [],
+  "schedule": [
+    {
+      "day": "Day 1",
+      "items": [
+        {
+          "time": "1:00 PM",
+          "title": "Check-in",
+          "note": ""
+        },
+        {
+          "time": "6:00 PM",
+          "title": "Evening session",
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "startDate": "2026-10-01",
+  "endDate": "2026-10-03"
+}
