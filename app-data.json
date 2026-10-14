@@ -190,7 +190,7 @@
       "id": "GetRealWest",
       "name": "GetReal West",
       "theme": "sage",
-      "hidden": true,
+      "hidden": false,
       "tagline": "A one-line description of this event.",
       "dates": "Dates to be announced",
       "shortDate": "Coming soon",
