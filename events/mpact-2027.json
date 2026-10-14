@@ -91,19 +91,25 @@
       "day": "Thursday, March 11",
       "items": [
         {
-          "time": "9:00 AM",
+          "time": "11:30 AM",
           "title": "Registration opens",
           "note": "Main lobby"
         },
         {
-          "time": "10:30 AM",
-          "title": "Opening session",
+          "time": "1:00 PM",
+          "title": "General Session 1",
           "note": "Main hall"
         },
         {
-          "time": "12:00 PM",
-          "title": "Lunch",
+          "time": "2:00 PM",
+          "title": "Break",
           "note": ""
+        }
+        {
+          "time": "2:15 PM",
+          "title": "Breakout Session 1",
+          "note": "Parenting on Purpose - Mike and Cheryl Kolesar\nNew Church-State Challenges - Gena McFarland\nRenew Montana: 
+          pursuing a Culture of Spiritual Renewal - Howeth/Hales"
         }
       ]
     },
