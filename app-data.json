@@ -183,8 +183,8 @@
           ]
         }
       ],
-      "startDate": "2026-10-1",
-      "endDate": "2026-10-3"
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-03"
     },
     {
       "id": "GetRealWest",
