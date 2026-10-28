@@ -1,8 +1,9 @@
 {
   "_readme": "Edit this file on GitHub to change what the app shows. Keep every quote, comma, and bracket in place.",
-  "settings": {
-    "showWebsiteNews": true
-  },
+   "settings": {
+     "showWebsiteNews": true,
+     "staffCode": "staff2027"
+   },
   "eventFiles": [
     "events/mpact-2027.json",
     "events/refresh-2026.json",
