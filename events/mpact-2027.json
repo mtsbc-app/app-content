@@ -258,6 +258,15 @@
       ]
     }
   ],
+  "staffSchedule": [
+  {
+    "day": "Thursday, March 11",
+    "items": [
+      { "time": "6:30 AM", "title": "Staff arrive and setup", "note": "Main hall" },
+      { "time": "7:30 AM", "title": "Sound check" }
+    ]
+  }
+],
   "startDate": "2027-03-11",
   "endDate": "2027-03-12"
 }
